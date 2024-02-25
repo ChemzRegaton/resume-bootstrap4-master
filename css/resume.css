@@ -104,17 +104,17 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #808000 !important; /* Olive color */
+  background-color: #0000FF !important; 
 }
 
 .text-primary {
-  color: #808000 !important; /* Olive color */
+  color: #0000FF !important;
 }
 
 a {
-  color: #808000; /* Olive color */
+  color: #0000FF;
 }
 
 a:hover, a:focus, a:active {
-  color: #556B2F; /* Dark Olive Green for hover, focus, and active states */
+  color: #00008B; 
 }
