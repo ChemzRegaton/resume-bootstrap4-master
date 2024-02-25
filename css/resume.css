@@ -108,11 +108,11 @@ section.resume-section {
 }
 
 .text-primary {
-  color:  #C0C0C0 !important;
+  color:  #008000 !important;
 }
 
 a {
-  color:  #C0C0C0;
+  color:  #008000;
 }
 
 a:hover, a:focus, a:active {
