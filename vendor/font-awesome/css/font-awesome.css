@@ -178,6 +178,10 @@
 .fa-inverse {
   color: #007bff;
 }
+
+.fa-stack{
+  background-color: #155724;
+}
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 .fa-glass:before {
